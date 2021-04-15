@@ -1,4 +1,4 @@
-# jaikisan_movie_app
+# movieBoxoffice
 
 
 - Movie box office app to use this app first add your private key to the below given path.
